@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **nomsynonso/nomsynonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1 align="center">nomsynonso</h1>
+<p align="center"> 
+<a href="https://github.com/nomsynonso" target="_blank" rel="noreferrer"> 
+<img src="https://roadmap.sh/roadmaps/devops.png" alt="devops" width="70%" height="70%"/> 
+</a> 
+</p>
